@@ -1,6 +1,16 @@
 # frontendweb
 Hi everyone,In this repository you will be able to see my frontend projects.
+
+
+
+
 My firstproject---------------------------------- 
+
+
+
+
+
+
 parallax website is a type of website design that creates an illusion of depth and interactivity by utilizing different scrolling speeds between the foreground and background elements. The term "parallax" refers to the apparent shift in the position of objects when viewed from different angles.
 
 In a parallax website, the content is typically divided into multiple layers, each moving at a different speed as the user scrolls. This creates a visually engaging and interactive experience, as elements seem to move independently of each other. The foreground layers move faster, while the background layers move slower, giving the impression of depth and immersion.
